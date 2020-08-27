@@ -1,4 +1,17 @@
 {
 	"beacon":[
+		{
+			"date": "27-08-2020",
+			"time": "19:14:55",
+			"mobile_number": "",
+			"device_id": "58be32a7231118e4",
+			"beacon_id": "",
+			"latitude": "19.3008839",
+			"longitude": "72.8508498",
+			"distance": "100000.0",
+			"punch_in": "1",
+			"punch_out": "0",
+			"id": 1
+		}
 	]
 }	
